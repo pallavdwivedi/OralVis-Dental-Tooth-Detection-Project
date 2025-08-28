@@ -15,7 +15,8 @@ dental-tooth-detection/
 └── best.pt # Trained model weights
 
 
-## Quick Start
+## Quick Start:
+Result Charts and weights are uploaded in https://drive.google.com/file/d/1kLausIuo7vQ7edOKORWaRPCZPlMwR1X8/view?usp=sharing 
 
 ### Prerequisites
 pip install ultralytics opencv-python matplotlib pandas
