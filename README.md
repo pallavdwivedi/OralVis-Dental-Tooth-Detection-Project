@@ -70,3 +70,6 @@ The model detects and classifies teeth according to the international FDI number
 - Ultralytics for YOLOv11 implementation
 - FDI World Dental Federation for numbering system standards
 - Dataset contributors and annotators
+
+## Results
+  - ![Alt text](teeth1.jpg)
